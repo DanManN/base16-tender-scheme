@@ -1,2 +1,2 @@
 # base16-tender-scheme
-tender vim color-scheme for base16
+tender color-scheme for base16 based on https://github.com/jacoborus/tender.vim
